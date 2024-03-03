@@ -1,0 +1,123 @@
+* {
+  background-color: black !important;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: large;
+}
+
+p {
+  opacity: 0.8;
+}
+
+.div1 {
+  text-align: center;
+  justify-content: center;
+}
+
+.nav {
+  height: 3rem;
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  text-align: center;
+  justify-content: center;
+  border: 2px solid rgba(255, 255, 255, 0.319);
+  overflow: hidden;
+  box-shadow: 0 0 20px 0 gray;
+}
+
+.btns {
+  text-align: center;
+  justify-content: center;
+}
+
+.btns a {
+  text-decoration: none;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+
+.abtMe {
+  display: flex;
+  padding-top: 100px;
+}
+
+.prjs {
+  justify-content: center;
+  text-align: center;
+  margin-top: 90px;
+}
+
+.prjs a {
+  text-decoration: none;
+  margin-left: 70px;
+}
+
+.one img {
+  height: 400px;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+
+.one {
+  padding-left: 70px;
+  margin-right: 50px;
+  padding-top: 80px;
+}
+
+.two {
+  padding-top: 105px;
+  padding-right: 50px;
+  margin-left: 100px;
+}
+
+.frntp {
+  margin-top: 100px;
+  font-size: xx-large;
+  text-align: center; 
+  justify-content: center;
+}
+
+.div3,.div4,.div5,.div6,.div7,.div8,.div9,.div10,.div11,.div12,.div13 {
+  display: flex;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.lp {
+  padding-left: 50px;
+  margin-right: 60px;
+}
+
+.li {
+  padding-left: 50px;
+  margin-right: 60px;
+}
+
+.rp {
+  padding-right: 50px;
+}
+
+.ri {
+  padding-left: 50px;
+  margin-right: 60px;
+}
+
+.rp i {
+  height: 300px;
+  width: 300px;
+}
+
+.li img{
+  height: 250px;
+  width: 500px;
+}
+
+.ri img{
+  height: 250px;
+  width: 500px;
+}
